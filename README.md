@@ -32,8 +32,10 @@ Booking.com 9.6/10 (339) — у hero; Google 4.8/5 (51) — у секції ві
 Форма (заїзд, виїзд, дорослі, діти, сімейний номер, місце для роботи, додатково: сніданок/ресторан/room service/кухня-столова/пральня, ім’я, телефон, email) показана, але вимкнена. Поруч телефон, сайт готелю, Booking.com і адреса.
 
 ## Photos
-`photos_source: pexels (partial)` — hero лишається CSS-циферблатом дня (conic-gradient) з «24/7 рецепція» в центрі; єдине фото — ілюстрація до секції «Cook» (спільна кухня-столова), тимчасове стокове, не реальний інтер'єр готелю.
+`photos_source: pexels (partial)` — hero лишається CSS-циферблатом дня (conic-gradient) з «24/7 рецепція» в центрі; фото додані лише до карток секції «Work · Live», тимчасові стокові, не реальний інтер'єр готелю.
 
 | Файл | Pexels ID | Автор |
 |---|---|---|
-| images/cook-kitchen.jpg | 6481855 | Kampus |
+| images/work-desk.jpg | 6180728 | Artbovich |
+| images/live-laundry.jpg | 4386143 | Matreding |
+| images/connect-wifi.jpg | 7394258 | Ivan S |
