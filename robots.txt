@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://apart247.webart.work/sitemap.xml
